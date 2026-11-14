@@ -1,4 +1,5 @@
 # Cyber Fastfetch Theme
+![Cyber Fastfetch Preview](preview.png)
 
 An electric cyan and neon violet Fastfetch theme with a custom Arch ASCII logo and categorized hardware sections for Omarchy Linux.
 
@@ -8,4 +9,10 @@ An electric cyan and neon violet Fastfetch theme with a custom Arch ASCII logo a
 
 ## Installation
 ```bash
-omarchy-plugin-add [https://github.com/aditya27003/cyber-fastfetch.git](https://github.com/aditya27003/cyber-fastfetch.git) --enable
+omarchy-plugin-add [https://github.com/Adicodes270/cyber-fastfetch-theme.git](https://github.com/Adicodes270/cyber-fastfetch-theme.git) --enable
+```
+
+## Removal
+```bash
+omarchy-plugin-remove aditya27003.cyber-fastfetch
+```

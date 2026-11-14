@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "author": "Aditya Kumar",
   "description": "Electric cyan and neon violet Fastfetch theme with custom Arch logo and categorized hardware sections.",
+  "preview": "preview.png",
   "kinds": ["panel"],
   "entryPoints": {
     "panel": "Panel.qml"

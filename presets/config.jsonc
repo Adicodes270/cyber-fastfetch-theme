@@ -121,6 +121,20 @@
       
     },
 
+    {
+      "type": "custom",
+      "key": "  󰌌 Keyboard",
+      "keyColor": "38;2;52;211;153",
+      "format": "Ant Esports KM540 Membrane Keyboard"
+    },
+    {
+      "type": "custom",
+      "key": "  󰍽 Mouse",
+      "keyColor": "38;2;52;211;153",
+      "format": "EvoFox Phantom 2 Gaming Mouse"
+    },
+
+
     "break",
 
     // --- COLOR PALETTE STRIP ---
