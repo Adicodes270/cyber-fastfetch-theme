@@ -64,7 +64,7 @@ Removing the plugin does not delete the files it installed; use **Restore Backup
 
 - **The panel does not open:** confirm the plugin is enabled with `omarchy plugin list --json | jq '.[] | select(.id == "aditya27003.cyber-fastfetch")'`, then run `omarchy-shell shell rescanPlugins`.
 - **Icons show as boxes:** install a Nerd Font and select it in your terminal.
-- **`fastfetch` is not found:** install it (`omarchy pkg add fastfetch`) and reopen the panel.
+- **`fastfetch` is not found:** install `fastfetch` with your package manager and reopen the panel.
 
 ## License
 
