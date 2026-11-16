@@ -2,9 +2,10 @@
   "schemaVersion": 1,
   "id": "aditya27003.cyber-fastfetch",
   "name": "Cyber Fastfetch Theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Aditya Kumar",
-  "description": "Electric cyan and neon violet Fastfetch theme with custom Arch logo and categorized hardware sections.",
+  "license": "MIT",
+  "description": "Electric cyan and neon violet Fastfetch theme with a custom Arch logo and categorized hardware sections.",
   "preview": "preview.png",
   "kinds": ["panel"],
   "entryPoints": {
